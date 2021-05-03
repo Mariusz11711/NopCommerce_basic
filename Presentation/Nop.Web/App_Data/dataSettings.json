@@ -1,0 +1,6 @@
+﻿{
+  "DataConnectionString": "Data Source=coffe-shop-server.database.windows.net;Initial Catalog=Coffe_DB_2;Integrated Security=False;Persist Security Info=False;User ID=MariuszAzure;Password=JfRvhJ$uJ6GMH3j",
+  "DataProvider": "sqlserver",
+  "SQLCommandTimeout": null,
+  "RawDataSettings": {}
+}
